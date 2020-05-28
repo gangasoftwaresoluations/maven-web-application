@@ -94,7 +94,7 @@
 		
 	</dependencies>
 	
-	<distributionManagement>
+	<!-- <distributionManagement>
 	
 	    <repository>
 	      <id>nexus</id>
@@ -108,7 +108,7 @@
 	      <url>http://3.7.55.241:8081/repository/spacex-snopshot</url>
 	    </snapshotRepository>
 	    
-	</distributionManagement>
+	</distributionManagement> -->
 	
 	<build>
 		<finalName>maven-web-application</finalName>
